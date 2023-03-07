@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d1c5ddbf.css",
+    "main.js": "/static/js/main.fb294950.js",
+    "static/media/aboutme.jpg": "/static/media/aboutme.eec7d2326d8c29a44c99.jpg",
+    "static/media/osbornheadshot-2.png": "/static/media/osbornheadshot-2.b5b3d6bf37a7a0bb20a5.png",
+    "static/media/Samuel-Osborn-Kwame.pdf": "/static/media/Samuel-Osborn-Kwame.a37a6ea768f68d7b0fe0.pdf",
+    "static/media/logo.svg": "/static/media/logo.0fb4621332640e953fbd65b65101cef7.svg",
+    "index.html": "/index.html",
+    "static/media/close.svg": "/static/media/close.313a8e6ce95e72014ca00fb56d8b3ff3.svg",
+    "static/media/open.svg": "/static/media/open.196e865822b06a50385b031f9913c3a0.svg",
+    "main.d1c5ddbf.css.map": "/static/css/main.d1c5ddbf.css.map",
+    "main.fb294950.js.map": "/static/js/main.fb294950.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1c5ddbf.css",
+    "static/js/main.fb294950.js"
+  ]
+}
